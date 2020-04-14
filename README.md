@@ -1,2 +1,2 @@
-# R
-R projects
+# Romics
+Romics projects
